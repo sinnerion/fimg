@@ -2,7 +2,7 @@
     font-family: 'helveticaneuecyrlight';
     src: url('../fonts/helveticaneuecyr-light-webfont.eot');
     src: url('../fonts/helveticaneuecyr-light-webfont.eot?#iefix') format('embedded-opentype'),
-         url('../fonts/helveticaneuecyr-light-webfont.woff') format('woff'),
+         /*url('../fonts/helveticaneuecyr-light-webfont.woff') format('woff'),*/
          url('../fonts/helveticaneuecyr-light-webfont.ttf') format('truetype'),
          url('../fonts/helveticaneuecyr-light-webfont.svg#helveticaneuecyrlight') format('svg');
     font-weight: 300;
